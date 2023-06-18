@@ -60,6 +60,11 @@ KATIL, etkinliklere katılmaktan ve sosyal etkileşimden keyif alan genç ve yet
 
 ---
 
+## Luminexa Product Backlog
+**[Flutter Team 28 Luminexa Trello Backlog Board](https://trello.com/invite/b/yOMydtRq/ATTI5bc1ac19e96a4d8adf74535fa9f13df93638D2DC/sprit-1)**
+
+---
+
 # Sprint 1
 **Sprint Notları**:
 Takım, proje için çalışmalara başlamak üzere proje fikrini belirledi. Yapılan araştırmalar sonucunda, fikrinin çok özgün olmadığını ve benzer fikirlerin zaten birçok uygulamada bulunduğunu fark ettik. Bu durum bizi farklı fikirler bulmaya yönlendirdi ve takım olarak KATIL fikrini keşfederek geliştirmeye başladık.
