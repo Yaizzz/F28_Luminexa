@@ -4,7 +4,7 @@ Luminexa - Flutter 28
 
 # Ürün İle İlgili Bilgiler
 
-## Takım Elemanları
+## Takım Üyeleri
 - Ali Kadir Kılıç: Scrum Master-Developer
 - Yağız Can Dinç: Product Owner-Developer
 - Özlem Yatkın: UI/UX-Developer
