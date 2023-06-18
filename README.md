@@ -84,10 +84,10 @@ Günlük Scrum toplantılarının tekrar Whatsapp grubunda günlük olarak yazı
 ![trello 4](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/ce429230-7680-49fb-8691-b5539f1db4d1)
 ![Trello 5](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/34df0ada-aaa9-4f34-a63d-178b20a29136)
 
-ILK FIKIR CALISMASI
+**İLK FİKİR ÇALIŞMASI**
 ![Ilk FIkir Logo](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/924fdf6c-cdeb-4faa-bd2a-3582364fcff2)
 
-KATIL APP
+**KATIL APP**
 
 ![Figma Genel](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/b8755fcf-ad94-4d44-99e0-cac60bddd78e)
 ![Ui Ux](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/844f8345-7ad7-44b2-b71e-72ef537df5a5)
