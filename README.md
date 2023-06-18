@@ -91,11 +91,11 @@ KATIL APP
 
 ![Figma Genel](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/b8755fcf-ad94-4d44-99e0-cac60bddd78e)
 ![Ui Ux](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/844f8345-7ad7-44b2-b71e-72ef537df5a5)
+![Giris Ekrani](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/37aef623-bf84-4213-8ad8-91a8fae74eaf)
+![Home Page](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/1c5eafd8-b8ec-471f-8f64-099f7f15cc81)
 ![profil add dark](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/c19186aa-7bea-4ad1-bf4d-f3f66784fc72)
 ![profil lite](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/5706f29c-9daa-4351-902b-469e6bb0ff8c)
 ![Profil dark](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/b74ccd75-ae45-41db-8267-e5389cb629f7)
-![Giris Ekrani](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/37aef623-bf84-4213-8ad8-91a8fae74eaf)
-![Home Page](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/1c5eafd8-b8ec-471f-8f64-099f7f15cc81)
 
 
 
