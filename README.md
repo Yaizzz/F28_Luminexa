@@ -96,6 +96,7 @@ Günlük Scrum toplantılarının tekrar Whatsapp grubunda günlük olarak yazı
 ![profil add dark](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/c19186aa-7bea-4ad1-bf4d-f3f66784fc72)
 ![profil lite](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/5706f29c-9daa-4351-902b-469e6bb0ff8c)
 ![Profil dark](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/b74ccd75-ae45-41db-8267-e5389cb629f7)
+![Logo](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/0e9b9978-544c-423a-b34e-d2ad7572efaa)
 
 
 
