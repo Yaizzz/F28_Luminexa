@@ -76,11 +76,26 @@ Günlük Scrum toplantıları, Whatsapp üzerinden gerçekleştirildi ve her gü
 Katılımcılar: Tüm ekip üyeleri
 
 Günlük Scrum toplantılarının tekrar Whatsapp grubunda günlük olarak yazılmasına karar verildi.
+
+
 ![Trello 1](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/210b9a07-db49-4145-85a1-4870497996a7)
 ![Trello 2](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/e7c0dfc5-bd37-4585-ba47-bbbcc51968de)
 ![Trello 3](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/9d4b8b0a-dfd2-4991-97bf-19b22ef0f876)
 ![trello 4](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/ce429230-7680-49fb-8691-b5539f1db4d1)
 ![Trello 5](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/34df0ada-aaa9-4f34-a63d-178b20a29136)
+
+ILK FIKIR CALISMASI
+![Ilk FIkir Logo](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/924fdf6c-cdeb-4faa-bd2a-3582364fcff2)
+
+KATIL APP
+
+![Figma Genel](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/b8755fcf-ad94-4d44-99e0-cac60bddd78e)
+![Ui Ux](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/844f8345-7ad7-44b2-b71e-72ef537df5a5)
+![profil add dark](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/c19186aa-7bea-4ad1-bf4d-f3f66784fc72)
+![profil lite](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/5706f29c-9daa-4351-902b-469e6bb0ff8c)
+![Profil dark](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/b74ccd75-ae45-41db-8267-e5389cb629f7)
+![Giris Ekrani](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/37aef623-bf84-4213-8ad8-91a8fae74eaf)
+![Home Page](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/1c5eafd8-b8ec-471f-8f64-099f7f15cc81)
 
 
 
