@@ -61,6 +61,27 @@ KATIL, etkinliklere katılmaktan ve sosyal etkileşimden keyif alan genç ve yet
 ---
 
 # Sprint 1
+Sprint Notları:
+
+Takımımız, projenin yönetimini Trello üzerinden gerçekleştirmeye karar verdi. Proje belirlendikten sonra, takım olarak backlog üzerinde çalışarak sprintler içinde hangi görevlerin yapılacağına karar verdik. Bazı backloglar "future" olarak eklenmiş, yani ileriki sprintlere bırakılmıştır. Trello'da kartların içine User Story'ler yazıldı, bu da görevlerin kullanıcı hikayelerini ifade eden açıklamalardır.
+
+Sprint planlamasını, toplamda 150 puanlık bir öngörüyle gerçekleştirdik. Bu öngörü, sprint boyunca tamamlanması hedeflenen görevlerin tahmini toplam puanını temsil etmektedir. Ancak, backloglar sürekli olarak güncellendiği için projenin toplam puanlaması yapılmadı.
+
+Günlük Scrum toplantıları, Whatsapp üzerinden gerçekleştirildi ve her gün akşam 20.00'de Discord üzerinde toplantı saati belirlendi. Ekibin isteyen üyeleri toplantılara katılabileceği kararlaştırıldı. Günlük Scrum toplantılarının kayıtları içeriğini dostada bulabilirsiniz.
+[Sprit 1 Meet Up.docx](https://github.com/Yaizzz/F28_Luminexa/files/11782162/Sprit.1.Meet.Up.docx)
+
+Sprint İncelemesi: Sürecin yavaş ilerlediği, tüm ekip tarafından kabul edildi ve bu nedenle daha aktif bir süreç için 2 sprint daha kararlaştırıldı. Sayfalar arası bağlantıların yapılması için Firebase bağlantılarıyla ilgili araştırmaların bir sonraki sprinte bırakılması konusunda ekip fikir birliğine vardı.
+
+Katılımcılar: Tüm ekip üyeleri
+
+Günlük Scrum toplantılarının tekrar Whatsapp grubunda günlük olarak yazılmasına karar verildi.
+![Trello 1](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/210b9a07-db49-4145-85a1-4870497996a7)
+![Trello 2](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/e7c0dfc5-bd37-4585-ba47-bbbcc51968de)
+![Trello 3](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/9d4b8b0a-dfd2-4991-97bf-19b22ef0f876)
+![trello 4](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/ce429230-7680-49fb-8691-b5539f1db4d1)
+![Trello 5](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/34df0ada-aaa9-4f34-a63d-178b20a29136)
+
+
 
 # Sprint 2
 
