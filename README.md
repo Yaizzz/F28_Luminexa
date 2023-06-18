@@ -15,7 +15,7 @@ Luminexa - Flutter 28
   KATIL
  
 ## Ürün Açıklaması
-  📢 Sosyal Etkinliklerin Kalbi: [Uygulama Adı]
+  📢 Sosyal Etkinliklerin Kalbi: KATIL
 
 Merhaba! Luminexa ekibi olarak, sizin gibi etkinliklere katılmaktan ve sosyal etkileşimden keyif alan insanlar için mükemmel bir çözüm geliştirdik. KATIL, etkinlikleri takip edebileceğiniz, katılım kayıtlarınızı yapabileceğiniz ve yeni deneyimler keşfetmek için ilham alabileceğiniz interaktif bir sosyal platformdur.
 
