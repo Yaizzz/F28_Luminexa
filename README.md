@@ -67,7 +67,9 @@ KATIL, etkinliklere katılmaktan ve sosyal etkileşimden keyif alan genç ve yet
 
 # Sprint 1
 **Sprint Notları**:
+
 Takım, proje için çalışmalara başlamak üzere proje fikrini belirledi. Yapılan araştırmalar sonucunda, fikrinin çok özgün olmadığını ve benzer fikirlerin zaten birçok uygulamada bulunduğunu fark ettik. Bu durum bizi farklı fikirler bulmaya yönlendirdi ve takım olarak KATIL fikrini keşfederek geliştirmeye başladık.
+Sprint 2 için daha aktif bir takım olabilmek amacıyla planlar yaptık. Ne yazık ki, ekip içerisindeki 2 arkadaşımızın üniversitedeki final dönemleri nedeniyle katılımları oldukça sınırlı oldu. Ancak, bu durumu göz önünde bulundurarak takım olarak daha etkili bir şekilde çalışmak için esnek bir yaklaşım benimsedik.
 
 Takımımız, projenin yönetimini Trello üzerinden gerçekleştirmeye karar verdi. Proje belirlendikten sonra, takım olarak backlog üzerinde çalışarak sprintler içinde hangi görevlerin yapılacağına karar verdik. Bazı backloglar "future" olarak eklenmiş, yani ileriki sprintlere bırakılmıştır. Trello'da kartların içine User Story'ler yazıldı, bu da görevlerin kullanıcı hikayelerini ifade eden açıklamalardır.
 
