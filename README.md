@@ -71,7 +71,7 @@ Takım, proje için çalışmalara başlamak üzere proje fikrini belirledi. Yap
 
 Takımımız, projenin yönetimini Trello üzerinden gerçekleştirmeye karar verdi. Proje belirlendikten sonra, takım olarak backlog üzerinde çalışarak sprintler içinde hangi görevlerin yapılacağına karar verdik. Bazı backloglar "future" olarak eklenmiş, yani ileriki sprintlere bırakılmıştır. Trello'da kartların içine User Story'ler yazıldı, bu da görevlerin kullanıcı hikayelerini ifade eden açıklamalardır.
 
-Sprint planlamasını, toplamda 150 puanlık bir öngörüyle gerçekleştirdik. Bu öngörü, sprint boyunca tamamlanması hedeflenen görevlerin tahmini toplam puanını temsil etmektedir. Ancak, backloglar sürekli olarak güncellendiği için projenin toplam puanlaması yapılmadı.
+Sprint planlamasını, toplamda 150 puanlık bir öngörüyle gerçekleştirdik. Bu öngörü, sprint boyunca tamamlanması hedeflenen görevlerin tahmini toplam puanını temsil etmektedir. Ancak, backloglar sürekli olarak güncellendiği için projenin toplam puanlaması yapılmadı. İlk sprintin sonunda öngörülen 150 puandan 110 puanı tamamlanmıştır.
 
 
 **Sprint Review**: Sürecin yavaş ilerlediği, tüm ekip tarafından kabul edildi ve bu nedenle daha aktif bir süreç için 2 sprint daha kararlaştırıldı. Sayfalar arası bağlantıların yapılması için Firebase bağlantılarıyla ilgili araştırmaların bir sonraki sprinte bırakılması konusunda ekip fikir birliğine vardı.
