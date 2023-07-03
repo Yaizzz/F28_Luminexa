@@ -1,3 +1,4 @@
+![renk 3](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/16bfd519-e312-4c02-81cf-13f821be3385)
 # **Takım İsmi**
 
 Luminexa - Flutter 28
@@ -113,5 +114,19 @@ Günlük Scrum toplantılarının tekrar Whatsapp grubunda günlük olarak yazı
 
 
 # Sprint 2
+
+Sprint Notları: 
+
+Takım bayram sebebiyle çok fazla çalışamadı. Finali olan takım arkadaşlarımızın finallerinin bitmesi ile daha çok katkı sağlamaları istendi. 
+
+Sprint planlamasını, toplamda 80 puanlık bir öngörüyle gerçekleştirdik. Bu öngörü, sprint boyunca tamamlanması hedeflenen görevlerin tahmini toplam puanını temsil etmektedir. Ancak, backloglar sürekli olarak güncellendiği için projenin toplam puanlaması yapılmadı. İkinci sprintin sonunda öngörülen 80 puanın tamamı tamamlanmıştır. 
+
+*Sprint Review*: Sürecin ilk sprintte finallerden dolayı, ikinci sprintte bayram sebebiyle yavaş ilerlediği, tüm ekip tarafından kabul edildi ve bu nedenle daha aktif bir süreç için üçüncü sprintte hız kazanılması kararlaştırıldı. Firebase bağlantısı giriş seviyede tamamlandı. Uygulamaya giriş için kullanıcı giriş sayfası ve yeni kullanıcılar için kayıt sayfası oluşturuldu. Uygulamanın arka planı için görsel ve uygulama logosu oluşturuldu. (EKLEMELER YAPILABİLİR)
+
+*Sprint Retrospektifi:*  Sprintte planlanan tüm görevlerin bitirilmesi üzerine takım tebrik edildi. Bayram sebebiyle sprintin az görev ile oluşturulduğuna dikkat çekildi ve bir sonraki sprintte daha fazla görev oluşturulmasına karar verildi.
+
+![Uploading renk 2.png…]()
+![Uploading renk 1.png…]()
+![renk 6](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/1209d357-b7cf-4510-8d55-31f866b92ea0)
 
 # Sprint 3
