@@ -116,15 +116,22 @@ Günlük Scrum toplantılarının tekrar Whatsapp grubunda günlük olarak yazı
 
 # Sprint 2
 
-Sprint Notları: 
+Sprint Notları:
 
-Takım bayram sebebiyle çok fazla çalışamadı. Finali olan takım arkadaşlarımızın finallerinin bitmesi ile daha çok katkı sağlamaları istendi. 
+Takımımız, bayram tatili nedeniyle yoğun bir çalışma temposu sürdüremedi. Ancak, takım arkadaşlarımızın finallerinin tamamlanmasıyla birlikte daha fazla katkı sağlamaları için teşvik edildi.
 
-Sprint planlamasını, toplamda 80 puanlık bir öngörüyle gerçekleştirdik. Bu öngörü, sprint boyunca tamamlanması hedeflenen görevlerin tahmini toplam puanını temsil etmektedir. Ancak, backloglar sürekli olarak güncellendiği için projenin toplam puanlaması yapılmadı. İkinci sprintin sonunda öngörülen 80 puanın tamamı tamamlanmıştır. 
+Sprint planlaması, toplamda 80 puanlık bir tahminle gerçekleştirildi. Bu tahmin, sprint boyunca tamamlanması hedeflenen görevlerin toplam tahmini puanını temsil etmektedir. Ancak, backloglar sürekli olarak güncellendiği için projenin toplam puanlaması yapılmadı. İkinci sprintin sonunda öngörülen 80 puanın tamamı tamamlanmıştır.
 
-*Sprint Review*: Sürecin ilk sprintte finallerden dolayı, ikinci sprintte bayram sebebiyle yavaş ilerlediği, tüm ekip tarafından kabul edildi ve bu nedenle daha aktif bir süreç için üçüncü sprintte hız kazanılması kararlaştırıldı. Firebase bağlantısı giriş seviyede tamamlandı. Uygulamaya giriş için kullanıcı giriş sayfası ve yeni kullanıcılar için kayıt sayfası oluşturuldu. Uygulamanın arka planı için görsel ve uygulama logosu oluşturuldu. (EKLEMELER YAPILABİLİR)
+Sprint Review: İlk sprintte finaller ve ikinci sprintte bayram tatili nedeniyle sürecin yavaş ilerlediği kabul edildi ve daha aktif bir süreç için üçüncü sprintte hız kazanılması kararlaştırıldı. Firebase bağlantısı giriş seviyesinde tamamlandı. Kullanıcıların giriş yapabileceği bir sayfa ve yeni kullanıcılar için kayıt sayfası oluşturuldu. Ayrıca, uygulamanın arka planı için görseller ve uygulama logosu tasarlandı.
 
-*Sprint Retrospektifi:*  Sprintte planlanan tüm görevlerin bitirilmesi üzerine takım tebrik edildi. Bayram sebebiyle sprintin az görev ile oluşturulduğuna dikkat çekildi ve bir sonraki sprintte daha fazla görev oluşturulmasına karar verildi.
+Sprint Retrospektifi: Takım, planlanan tüm görevlerin tamamlanması nedeniyle tebrik edildi. Bayram tatili nedeniyle sprintte az sayıda görev olduğuna dikkat çekildi ve bir sonraki sprintte daha fazla görev oluşturulmasına karar verildi. Bu şekilde, daha verimli bir çalışma sağlanması hedeflendi. Tekrardan Toplantilarin WP uzerinden devam ettirilmesinde ortak fikre varildi.
+
+Sprint Backlog Güncellemesi: Üçüncü sprintin başlamasıyla birlikte sprint backlog'ı güncellendi. Yeni eklenen görevlerin tahmini puanları, toplam tahmini puana yansıtıldı. Bu sayede, sprint boyunca tamamlanması hedeflenen görevlerin toplam puanlaması yapılarak ilerlemenin takip edilmesi sağlandı.
+
+Sprint Planlaması: Üçüncü sprintin planlaması gerçekleştirildi. Takım, bayram ve finallerin tamamlanması nedeniyle daha fazla zaman ve enerjiye sahip olduğu için önceki sprintlere kıyasla daha fazla görevi hedefledi. Sprint boyunca tamamlanması planlanan görevler ve tahmini puanları, sprint backlog'ında belirlendi.
+
+Sprint Hedefi: Üçüncü sprintin hedefi, takımın daha hızlı ilerleyerek önceki sprintlere kıyasla daha fazla görevi tamamlamasını sağlamaktır. Takım üyeleri, görevleri zamanında tamamlamak için etkin iletişim ve işbirliği içinde çalışacaklardır.
+
 
 ![Sprot 2](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/d2032ad5-0edd-4ba6-a9ca-a90443421a05)
 
