@@ -1,4 +1,5 @@
-![renk 3](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/16bfd519-e312-4c02-81cf-13f821be3385)
+
+
 # **Takım İsmi**
 
 Luminexa - Flutter 28
@@ -125,8 +126,12 @@ Sprint planlamasını, toplamda 80 puanlık bir öngörüyle gerçekleştirdik. 
 
 *Sprint Retrospektifi:*  Sprintte planlanan tüm görevlerin bitirilmesi üzerine takım tebrik edildi. Bayram sebebiyle sprintin az görev ile oluşturulduğuna dikkat çekildi ve bir sonraki sprintte daha fazla görev oluşturulmasına karar verildi.
 
+![Sprot 2](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/d2032ad5-0edd-4ba6-a9ca-a90443421a05)
+
 ![Uploading renk 2.png…]()
 ![Uploading renk 1.png…]()
-![renk 6](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/1209d357-b7cf-4510-8d55-31f866b92ea0)
+![renk 3](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/a94bc874-c4c7-4a9d-a6b4-0943117de733)
+![renk 4](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/00f9a20f-7291-4cf1-99a0-c7a6c83a1ed4)
+
 
 # Sprint 3
