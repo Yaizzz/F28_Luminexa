@@ -139,6 +139,9 @@ Sprint Hedefi: Üçüncü sprintin hedefi, takımın daha hızlı ilerleyerek ö
 ![renk 2](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/1ac44d9a-d539-4da9-96ea-749af5262168)
 ![renk 3](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/a94bc874-c4c7-4a9d-a6b4-0943117de733)
 ![renk 4](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/00f9a20f-7291-4cf1-99a0-c7a6c83a1ed4)
+![WhatsApp Görsel 2023-07-03 saat 20 09 20](https://github.com/Yaizzz/F28_Luminexa/assets/33830270/8e2a3757-eec7-4122-be8e-3616f563ccbc)
+![WhatsApp Görsel 2023-07-03 saat 20 09 21](https://github.com/Yaizzz/F28_Luminexa/assets/33830270/f3c8205c-5e88-4a19-99f4-144729d256e3)
+![WhatsApp Görsel 2023-07-03 saat 20 09 22](https://github.com/Yaizzz/F28_Luminexa/assets/33830270/49495933-cecf-4f8e-942a-66a1c7f91145)
 
 
 # Sprint 3
