@@ -4,7 +4,7 @@ import 'package:bootcamp_app1/pages/login_page.dart';
 //import 'package:bootcamp_app1/pages/edit_profile_page.dart';
 import 'package:bootcamp_app1/utils/user_preferences.dart';
 import 'package:flutter/material.dart';
-import 'pages/profile_page.dart';
+import 'pages/profile_page_old.dart';
 //import 'package:flutter/services.dart';
 import 'themes.dart';
 import 'package:firebase_core/firebase_core.dart';

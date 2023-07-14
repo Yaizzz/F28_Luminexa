@@ -8,6 +8,8 @@ import 'package:flutter/cupertino.dart';
 //import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+
+import 'forgot_password_page.dart';
 //import 'package:cupertino_icons/cupertino_icons.dart';
 
 class LoginPage extends StatefulWidget {
@@ -141,6 +143,7 @@ class _LoginPageState extends State<LoginPage> {
                         onPressed: () async {
                           final result = await AuthService().signInAnonymous();
                           if (result != null) {
+                            // ignore: use_build_context_synchronously
                             Navigator.push(
                               context,
                               MaterialPageRoute(
@@ -152,9 +155,17 @@ class _LoginPageState extends State<LoginPage> {
                         },
                         child: Text("Misafir Girişi"),
                       ),
-                      Text(
-                        'Şifremi Unuttum',
-                        style: TextStyle(color: Colors.grey[600]),
+                      TextButton(
+                        onPressed: () {
+                          Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (context) => ForgotPasswordPage()));
+                        },
+                        child: Text(
+                          'Şifremi Unuttum',
+                          style: TextStyle(color: Colors.blue),
+                        ),
                       ),
                     ],
                   ),
@@ -201,22 +212,27 @@ class _LoginPageState extends State<LoginPage> {
                 const SizedBox(height: 50),
 
                 // google + apple sign in buttons
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    // google button
-                    KareIcon(
-                        imagePath: 'images/google.png',
-                        onTap: () => AuthService().signInWithGoogle()),
+                Padding(
+                  padding: const EdgeInsets.only(left: 26),
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      // google button
+                      KareIcon(
+                          imagePath: 'images/google.png',
+                          onTap: () => AuthService().signInWithGoogle()),
 
-                    SizedBox(width: 25),
+                      const SizedBox(width: 25),
 
-                    // apple button
-                    KareIcon(
-                      imagePath: 'images/apple.png',
-                      onTap: () {},
-                    )
-                  ],
+                      // apple button
+                      // KareIcon(
+                      //   imagePath: 'images/apple.png',
+                      //   onTap: () {
+                      //     AuthService().signInWithGoogle()
+                      //   },
+                      // )
+                    ],
+                  ),
                 ),
 
                 const SizedBox(height: 50),

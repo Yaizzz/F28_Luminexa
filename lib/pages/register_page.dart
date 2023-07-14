@@ -2,6 +2,7 @@ import 'package:bootcamp_app1/services/auth_service.dart';
 import 'package:bootcamp_app1/widgets/kare_icon.dart';
 import 'package:bootcamp_app1/widgets/login_button.dart';
 import 'package:bootcamp_app1/widgets/login_textfield.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 //import 'package:flutter/foundation.dart';
@@ -25,6 +26,7 @@ class _RegisterPageState extends State<RegisterPage> {
 
   //text editing controller
   final emailController = TextEditingController();
+  final userNameController = TextEditingController();
   final passwordController = TextEditingController();
   final confirmPasswordController = TextEditingController();
 
@@ -40,9 +42,12 @@ class _RegisterPageState extends State<RegisterPage> {
 
     //try creating user
     if (confirmPasswordController.text == passwordController.text) {
-      await FirebaseAuth.instance.createUserWithEmailAndPassword(
-          email: emailController.text, password: passwordController.text);
+      UserCredential userCredential = await FirebaseAuth.instance
+          .createUserWithEmailAndPassword(
+              email: emailController.text, password: passwordController.text);
       //Textfield controller ile alınan değerler firebase e gönderilip kontrol edilir
+
+      //after creating the user, create a new document in the cloud firestore called Users
       //Navigator.pop(context);
     } else {
       Navigator.pop(context);
@@ -137,6 +142,15 @@ class _RegisterPageState extends State<RegisterPage> {
 
                 const SizedBox(height: 10),
 
+                LoginTextfield(
+                  controller: userNameController,
+                  hintText: 'Adınız ve Soyadınız',
+                  obscureText: false,
+                ),
+                
+
+                const SizedBox(height: 10),
+
                 // password textfield
                 LoginTextfield(
                   controller: passwordController,
@@ -194,18 +208,21 @@ class _RegisterPageState extends State<RegisterPage> {
                 const SizedBox(height: 50),
 
                 // google + apple sign in buttons
-                 Row(
+                Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     // google button
-                    KareIcon(imagePath: 'images/google.png',onTap: () => AuthService().signInWithGoogle()),
+                    KareIcon(
+                        imagePath: 'images/google.png',
+                        onTap: () => AuthService().signInWithGoogle()),
 
                     SizedBox(width: 25),
 
                     // apple button
-                    KareIcon(imagePath: 'images/apple.png',onTap: () {
-                      
-                    },)
+                    KareIcon(
+                      imagePath: 'images/apple.png',
+                      onTap: () {},
+                    )
                   ],
                 ),
 

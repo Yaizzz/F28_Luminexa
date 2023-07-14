@@ -1,116 +1,67 @@
 import 'package:animated_theme_switcher/animated_theme_switcher.dart';
-import 'package:bootcamp_app1/pages/edit_profile_page.dart';
-import 'package:bootcamp_app1/utils/user_preferences.dart';
 import 'package:bootcamp_app1/widgets/appbar_widget.dart';
-import 'package:bootcamp_app1/widgets/profile_widget.dart';
-import 'package:flutter/cupertino.dart';
+import 'package:bootcamp_app1/widgets/text_box.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
-import '../models/user.dart';
-import '../widgets/button_widget.dart';
-import '../widgets/numbers_widget.dart';
-
-class profilePage extends StatefulWidget {
-  const profilePage({super.key});
+class ProfilePage extends StatefulWidget {
+  const ProfilePage({super.key});
 
   @override
-  State<profilePage> createState() => _profilePageState();
+  State<ProfilePage> createState() => _ProfilePageState();
 }
 
-class _profilePageState extends State<profilePage> {
-  final icon = CupertinoIcons.moon_stars;
+class _ProfilePageState extends State<ProfilePage> {
+  //user
+  final currentUser = FirebaseAuth.instance.currentUser!;
+  //edit field
+  Future<void> editField(String field) async {}
 
   @override
   Widget build(BuildContext context) {
-    final user = UserPreferences.getUser();
-    return ThemeSwitchingArea(
-      child: Builder(
-        builder: (context) => Scaffold(
-            appBar: buildAppBar(context),
-            body: ListView(
-              physics: BouncingScrollPhysics(),
-              children: [
-                ProfileWidget(
-                  imagePath: user.imagePath,
-                  onClicked: () async {
-                    await Navigator.of(context).push(
-                      MaterialPageRoute(
-                          builder: (context) => EditProfilePage()),
-                    );
-                    setState(() {});
-                  },
-                ),
-                const SizedBox(
-                  height: 24,
-                ),
-                buildName(user),
-                const SizedBox(height: 24),
-                Center(
-                  child: ElevatedButton(
-                    //Kullancı login ise gözüksün yaparız
-                    onPressed: () {
-                      Navigator.of(context).push(MaterialPageRoute(
-                          builder: (context) => EditProfilePage()));
-                    },
-                    child: Text("Profili Düzenle"),
-                    style: ElevatedButton.styleFrom(
-                        foregroundColor: Colors.white,
-                        shape: const StadiumBorder(),
-                        padding: const EdgeInsets.symmetric(
-                            horizontal: 32, vertical: 12)),
-                  ),
-                ),
-                //Center(child: buildUpgradeButton()),
-                const SizedBox(height: 24),
-                NumbersWidget(),
-                const SizedBox(height: 48),
-                buildAbout(user),
-                /* ElevatedButton(
-                  onPressed: () {
-                    Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                            builder: (context) => const profileEditPage()));
-                  },
-                  child: Icon(Icons.alarm)), */
-              ],
-            )),
+    return Scaffold(
+      //appBar: buildAppBar(context),
+      appBar: AppBar(
+        title: Text("Profile Page"),
+        backgroundColor: Colors.grey[900],
+      ),
+      body: ListView(
+        children: [
+          //profile picture
+          const SizedBox(
+            height: 50,
+          ),
+          const Icon(
+            Icons.person,
+            size: 72,
+          ),
+          //user name
+          // const SizedBox(height: 10),
+          // Text("user name"),
+          //user email
+          const SizedBox(
+            height: 10,
+          ),
+          Text(
+            currentUser.email!,
+            textAlign: TextAlign.center,
+          ),
+          const SizedBox(height: 50),
+
+          //details
+          MyTextBox(
+            sectionName: "My Details",
+            text: "Hi",
+            onPressed: () => editField("details"),
+          ),
+          const SizedBox(height: 10),
+          MyTextBox(
+            sectionName: "Katıldığı Etkinlikler",
+            text: "Etkinlikler burada gözükebilir",
+            onPressed: () {},
+          ),
+        ],
       ),
     );
   }
-
-  Widget buildName(User user) => Column(
-        children: [
-          Text(
-            user.name,
-            style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
-          ),
-          const SizedBox(height: 4),
-          Text(
-            user.email,
-            style: const TextStyle(color: Colors.grey),
-          )
-        ],
-      );
-
-  // Widget buildUpgradeButton() => ButtonWidget( //navigator context hatası verdi kullanım dışı yaptık
-  Widget buildAbout(User user) => Container(
-        padding: EdgeInsets.symmetric(horizontal: 48),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              "About",
-              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-            ),
-            SizedBox(
-              height: 16,
-            ),
-            Text(
-              user.about,
-              style: TextStyle(fontSize: 16, height: 1.4),
-            ),
-          ],
-        ),
-      );
 }
