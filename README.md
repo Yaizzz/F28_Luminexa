@@ -161,10 +161,10 @@ Sprint Backlog Güncellemesi: Üçüncü sprintin bitişiyle birlikte sprint bac
 ![sprit 3](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/975f5257-fb44-46cb-bcef-dc51704b771f)
 
 Uygulama resimleri:
-![Screenshot_1689532332](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/ed10ae2c-697c-4789-8079-ecaf5e571d56)
-![Screenshot_1689532346](![Screenshot_1689532672](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/d0c0f2b7-2d39-47b8-834b-6010f0c5de9d)
-![Screenshot_1689532676](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/201ed143-78e4-4fe2-b556-f349cacceb51)
-![Screenshot_1689532678](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/5524d3bd-9ad7-4424-adb5-2b8e115dba66)
-![Screenshot_1689532682](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/6e904fb8-856b-46ec-8ba7-b610a6b6ff10)
-![Screenshot_1689532346](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/dcf333d5-2de8-4b8f-9f7a-ac839c0b34e1)
+![Screenshot_1689532332](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/bdf0cc21-5a3d-4140-8007-71c112bb1da0)
+![Screenshot_1689532346](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/fa7505c9-5972-4e3a-bf4c-de1f01d06ece)
+![Screenshot_1689532672](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/23a760ec-506b-4a5f-93eb-5060ad7f0248)
+![Screenshot_1689532676](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/21d4a536-1d52-4c65-b66e-763a084ba309)
+![Screenshot_1689532678](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/bf90e480-b129-41c4-9cd1-4b8554c10ee8)
+![Screenshot_1689532682](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/bad2e374-44de-4041-8e43-320475918f0c)
 
