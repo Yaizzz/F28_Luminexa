@@ -145,3 +145,26 @@ Sprint Hedefi: Üçüncü sprintin hedefi, takımın daha hızlı ilerleyerek ö
 
 
 # Sprint 3
+
+Sprint Notları :
+
+Takımımızda çalışanların ve staj yapanların iş yoğunluğu, iletişim eksikliği vb. sebeplerden ötürü uygulama üzerinde çok çalışılamadı Uygulama istenildiği şekilde bitirilemedi ve şimdiye kadar yapılan bölümler düzeltildi.
+
+Sprint planlaması, toplamda 80 puanlık bir tahminle gerçekleştirildi. Bu tahmin, sprint boyunca tamamlanması hedeflenen görevlerin toplam tahmini puanını temsil etmektedir. Ancak, backloglar sürekli olarak güncellendiği için projenin toplam puanlaması yapılmadı. İkinci sprintin sonunda öngörülen 15 puanın tamamı tamamlanmıştır.
+
+Sprint Review : İlk iki sprintte işlerin yavaş yürüdüğü kabul edilip üçüncü sprintte hızlanılması kararlaştırılsa da bu hızlanma sağlanamadı. Gerek iş yoğunluğu, gerek iletişim eksikliği yüzünden proje tam bitirilemedi. Firebase bağlantısı sağlandı. Kullanıcılar için üç ayrı giriş metodu eklendi. Şifrelerini unutmaları halinde mail yollayacak sistem entegre edildil. Etkinlikler için firestore yapısı oluşturuldu ve uygulama ile iletişimi sağlandı. Etkinlik kayıt için sayfa oluşturuldu ve çalıştığı teyit edildi.
+
+Sprint Retrospektifi: Takım uygulamayı bitiremediği için başarızı bir proje geliştirme süreci yaşandığını kabul etti. Bundan sonraki projelerde yapılmaması gereken hatalar üzerine konuşuldu.
+
+Sprint Backlog Güncellemesi: Üçüncü sprintin bitişiyle birlikte sprint backlog'ı güncellendi. Yeni eklenen görevlerin tahmini puanları, toplam tahmini puana yansıtıldı. Bu sayede, sprint boyunca tamamlanması hedeflenen görevlerin toplam puanlaması yapılarak ilerlemenin takip edilmesi sağlandı. Bitirilen proje sonunda kalan görevler ve bitirilen görevler ayrıldı.
+
+![sprit 3](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/975f5257-fb44-46cb-bcef-dc51704b771f)
+
+Uygulama resimleri:
+![Screenshot_1689532682](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/7409d8d3-506a-4dbd-95e8-9eace3e0a69f)
+![Uploading Screenshot_1689532346.png…]()
+![Uploading Screenshot_1689532332.png…]()
+![Screenshot_1689532678](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/644602e6-b993-4e26-852b-ab751e9411d7)
+![Uploading Screenshot_1689532676.png…]()
+![Uploading Screenshot_1689532672.png…]()
+
