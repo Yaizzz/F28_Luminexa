@@ -163,8 +163,8 @@ Sprint Backlog Güncellemesi: Üçüncü sprintin bitişiyle birlikte sprint bac
 Uygulama resimleri:
 ![Screenshot_1689532332](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/ed10ae2c-697c-4789-8079-ecaf5e571d56)
 ![Screenshot_1689532346](![Screenshot_1689532672](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/d0c0f2b7-2d39-47b8-834b-6010f0c5de9d)
-https://github.com/Yaizzz/F28_Luminexa/assets/113242271/f869661f-a305-496b-b0df-4601ea80ea84)
 ![Screenshot_1689532676](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/201ed143-78e4-4fe2-b556-f349cacceb51)
 ![Screenshot_1689532678](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/5524d3bd-9ad7-4424-adb5-2b8e115dba66)
 ![Screenshot_1689532682](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/6e904fb8-856b-46ec-8ba7-b610a6b6ff10)
+![Screenshot_1689532346](https://github.com/Yaizzz/F28_Luminexa/assets/113242271/dcf333d5-2de8-4b8f-9f7a-ac839c0b34e1)
 
