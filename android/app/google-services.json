@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196489642903",
+    "project_id": "katil-app-da774",
+    "storage_bucket": "katil-app-da774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196489642903:android:6ab7e8cafff4c615853ad2",
+        "android_client_info": {
+          "package_name": "com.example.bootcamp_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196489642903-e9ioll7mqe8edc5ja3li00a3ols61q1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_2GKpyW_vf_phwRTE-pZdk-lXKVkIe24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196489642903-e9ioll7mqe8edc5ja3li00a3ols61q1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
