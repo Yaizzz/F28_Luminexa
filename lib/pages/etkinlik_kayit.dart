@@ -19,36 +19,37 @@ final etkinlikTarihiController = TextEditingController();
 final etkinlikAciklamasiController = TextEditingController();
 
 class _EtkinlikSayfasiState extends State<EtkinlikSayfasi> {
-  @override
-  void dispose() {
-    etkinlikAciklamasiController.dispose();
-    etkinlikAdiController.dispose();
-    etkinlikTarihiController.dispose();
-    super.dispose();
-  }
+  // @override
+  // void dispose() {
+  //   etkinlikAciklamasiController.dispose();
+  //   etkinlikAdiController.dispose();
+  //   etkinlikTarihiController.dispose();
+  //   super.dispose();
+  // }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      drawer: MyDrawer(
-        onProfileTap: () {
-          Navigator.pop(context); //başka sayfaya giderken drawerı kapatır
-          Navigator.push(context,
-              MaterialPageRoute(builder: (context) => const ProfilePage()));
-        },
-        onSignOut: () {
-          Navigator.pop(context);
-          signUserOut();
-        },
-        onEtkinlikSayfasi: () {
-          Navigator.pop(context);
-          Navigator.push(context,
-              MaterialPageRoute(builder: (context) => EtkinlikSayfasi()));
-        },
-      ),
+      // drawer: MyDrawer(
+      //   onProfileTap: () {
+      //     Navigator.pop(context); //başka sayfaya giderken drawerı kapatır
+      //     Navigator.push(context,
+      //         MaterialPageRoute(builder: (context) => const ProfilePage()));
+      //   },
+      //   onSignOut: () {
+      //     Navigator.pop(context);
+      //     signUserOut();
+      //   },
+      //   onEtkinlikSayfasi: () {
+      //     Navigator.pop(context);
+      //     Navigator.push(context,
+      //         MaterialPageRoute(builder: (context) => EtkinlikSayfasi()));
+      //   },
+      // ),
       appBar: AppBar(
-          //actions: [IconButton(onPressed: signUserOut, icon: Icon(Icons.logout))],
-          ),
+        backgroundColor: Colors.deepPurple[400],
+        //actions: [IconButton(onPressed: signUserOut, icon: Icon(Icons.logout))],
+      ),
       body: Center(
         child: Column(
           children: [
@@ -69,6 +70,7 @@ class _EtkinlikSayfasiState extends State<EtkinlikSayfasi> {
             ),
             SizedBox(height: 24),
             LoginButton(
+                color: Colors.deepPurple.shade400,
                 onTap: () {
                   final etkinlik_adi = etkinlikAdiController.text;
                   final etkinlik_tarihi = etkinlikTarihiController.text;
@@ -78,6 +80,7 @@ class _EtkinlikSayfasiState extends State<EtkinlikSayfasi> {
                       etkinlik_adi: etkinlik_adi,
                       etkinlik_tarihi: etkinlik_tarihi,
                       etkinlik_aciklamasi: etkinlik_aciklamasi);
+                  Navigator.pop(context);
                 },
                 text: "Etkinliği Oluştur"),
           ],

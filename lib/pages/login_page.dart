@@ -175,6 +175,7 @@ class _LoginPageState extends State<LoginPage> {
 
                 // sign in button
                 LoginButton(
+                  color: Colors.black,
                   onTap: signUserIn,
                   text: "Giriş Yap",
                 ),

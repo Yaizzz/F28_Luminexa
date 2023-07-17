@@ -22,8 +22,8 @@ class _ProfilePageState extends State<ProfilePage> {
     return Scaffold(
       //appBar: buildAppBar(context),
       appBar: AppBar(
-        title: Text("Profile Page"),
-        backgroundColor: Colors.grey[900],
+        title: Text("Profil Sayfası"),
+        backgroundColor: Colors.deepPurple[400],
       ),
       body: ListView(
         children: [
@@ -50,7 +50,7 @@ class _ProfilePageState extends State<ProfilePage> {
 
           //details
           MyTextBox(
-            sectionName: "My Details",
+            sectionName: "Hakkında",
             text: "Hi",
             onPressed: () => editField("details"),
           ),

@@ -41,7 +41,7 @@ class HomePage extends StatelessWidget {
       ),
       appBar: AppBar(
         backgroundColor: Colors.deepPurple[400],
-        actions: [IconButton(onPressed: signUserOut, icon: Icon(Icons.logout))],
+        //actions: [IconButton(onPressed: signUserOut, icon: Icon(Icons.logout))],
       ),
       body: Container(
         decoration: const BoxDecoration(

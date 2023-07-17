@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 class LoginButton extends StatelessWidget {
   final Function()? onTap;
   final String text;
-  const LoginButton({super.key, required this.onTap,required this.text});
+  Color color = Colors.black;
+  LoginButton({super.key, required this.onTap, required this.text,required this.color});
 
   @override
   Widget build(BuildContext context) {
@@ -13,7 +14,7 @@ class LoginButton extends StatelessWidget {
         padding: const EdgeInsets.all(25),
         margin: const EdgeInsets.symmetric(horizontal: 25),
         decoration: BoxDecoration(
-            color: Colors.black, borderRadius: BorderRadius.circular(8)),
+            color: color, borderRadius: BorderRadius.circular(8)),
         child: Center(
           child: Text(
             text,

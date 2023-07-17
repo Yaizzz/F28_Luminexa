@@ -147,7 +147,6 @@ class _RegisterPageState extends State<RegisterPage> {
                   hintText: 'Adınız ve Soyadınız',
                   obscureText: false,
                 ),
-                
 
                 const SizedBox(height: 10),
 
@@ -171,6 +170,7 @@ class _RegisterPageState extends State<RegisterPage> {
 
                 // sign in button
                 LoginButton(
+                  color: Colors.black,
                   onTap: signUserUp,
                   text: "Üye Ol",
                 ),
