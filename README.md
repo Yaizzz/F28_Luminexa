@@ -150,7 +150,7 @@ Sprint Notları :
 
 Takımımızda çalışanların ve staj yapanların iş yoğunluğu, iletişim eksikliği vb. sebeplerden ötürü uygulama üzerinde çok çalışılamadı Uygulama istenildiği şekilde bitirilemedi ve şimdiye kadar yapılan bölümler düzeltildi.
 
-Sprint planlaması, toplamda 80 puanlık bir tahminle gerçekleştirildi. Bu tahmin, sprint boyunca tamamlanması hedeflenen görevlerin toplam tahmini puanını temsil etmektedir. Ancak, backloglar sürekli olarak güncellendiği için projenin toplam puanlaması yapılmadı. İkinci sprintin sonunda öngörülen 15 puanın tamamı tamamlanmıştır.
+Sprint planlaması, toplamda 80 puanlık bir tahminle gerçekleştirildi. Bu tahmin, sprint boyunca tamamlanması hedeflenen görevlerin toplam tahmini puanını temsil etmektedir. Ancak, backloglar sürekli olarak güncellendiği için projenin toplam puanlaması yapılmadı. Üçüncü sprintin sonunda öngörülen 15 puanın tamamı tamamlanmıştır.
 
 Sprint Review : İlk iki sprintte işlerin yavaş yürüdüğü kabul edilip üçüncü sprintte hızlanılması kararlaştırılsa da bu hızlanma sağlanamadı. Gerek iş yoğunluğu, gerek iletişim eksikliği yüzünden proje tam bitirilemedi. Firebase bağlantısı sağlandı. Kullanıcılar için üç ayrı giriş metodu eklendi. Şifrelerini unutmaları halinde mail yollayacak sistem entegre edildil. Etkinlikler için firestore yapısı oluşturuldu ve uygulama ile iletişimi sağlandı. Etkinlik kayıt için sayfa oluşturuldu ve çalıştığı teyit edildi.
 
